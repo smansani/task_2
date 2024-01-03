@@ -1,0 +1,21 @@
+body{
+    background-color: #7FC7D9;
+}
+table,td{
+    border-radius:30px;
+    border-spacing: 20px;
+    text-align: center;
+}
+td{
+    background:white;
+}
+input{
+    background: #F6B17A;
+}
+
+th{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#7D0A0A;
+    font-weight: 300;
+}

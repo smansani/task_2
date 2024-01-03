@@ -1,0 +1,16 @@
+body{
+    background-color: #7FC7D9;
+    background-repeat: no-repeat;
+    background-size: 100% 200%;
+}
+.color{
+    color: aliceblue;
+    font-size: 30;
+}
+.size{
+    background-size: auto;
+}
+p{
+    font-size: 30px;
+    padding-left: 130px;
+}
